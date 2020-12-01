@@ -1,0 +1,2 @@
+# HibernateExampeWithPropertiesFile
+HibernateExampeWithPropertiesFile
